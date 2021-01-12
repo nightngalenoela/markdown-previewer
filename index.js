@@ -1,10 +1,7 @@
 /* globals marked, React, ReactDOM */
 /* eslint-disable react/prop-types, no-nested-ternary */
 
-// View a more complex version of this project with custom toolbar here:
-// https://codepen.io/no_stack_dub_sack/pen/JbPZvm?editors=0110
 
-// coded by @no-stack-dub-sack (github) / @no_stack_sub_sack (codepen)
 
 // eslint-disable-next-line no-unused-vars
 const projectName = 'markdown-previewer';
